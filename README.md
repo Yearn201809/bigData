@@ -1,3 +1,4 @@
 # bigData
 first_time_platform
-print("hello word")
+H<sub>2</sub>O  CO<sub>2</sub>
+爆米<sup>TM</sup>
